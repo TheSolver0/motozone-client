@@ -1,0 +1,5 @@
+{
+  "name": "MotoZone Admin",
+  "description": "Comprehensive management platform for motorcycle maintenance networks, featuring fleet tracking, inventory, and payroll.",
+  "requestFramePermissions": ["geolocation"]
+}
